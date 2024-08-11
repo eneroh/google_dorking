@@ -1,7 +1,7 @@
 # google_dorking
 
-# inspiration
-https://github.com/chr3st5an/Google-Dorking
+## Summary
+Inspiration: https://github.com/chr3st5an/Google-Dorking
 
 ```
 intext:<phrase>
